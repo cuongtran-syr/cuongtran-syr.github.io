@@ -13,6 +13,8 @@ I am a second year Ph.D student in Department of Electrical Engineering & Comput
 ## Short bio
 
 
+I went to Hanoi University of Science and Technology, Vietnam for my bachelor degree and Rutgers Univeristy, USA for my master. I spent two years working at Trusing Social a fintech comapnay based in Vietnam as a data scientist. 
+
 ### Contact information
 cutran@syr.edu
 
