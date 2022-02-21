@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-This page is under construction
+My current reseach topics are building connection between differential privacy and fairness for learning and decision problems. In particular, I 
