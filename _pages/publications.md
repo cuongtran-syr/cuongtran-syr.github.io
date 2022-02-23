@@ -4,7 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 ---
- 1. Ferdinando Fioretto, Cuong Tran, Keyu Zhu, and Pascal Van Hentenryck. Differential privacy and
+(*) denotes equal contribution
+
+
+ 1. Ferdinando Fioretto, Cuong Tran <sup>*</sup>, Keyu Zhu, and Pascal Van Hentenryck. Differential privacy and
 fairness in decisions and learning tasks: A survey. Submitted to IJCAI Survey Track, 2022
 
 2. Cuong Tran, Ferdinando Fioretto, and Pascal Van Hentenryck. Sf-pate: Scalable, fair, and private
