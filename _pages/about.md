@@ -34,7 +34,7 @@ I went to Hanoi University of Science and Technology, Vietnam for my bachelor de
 * [June, 2020]. Our paper titled **Lagrangian Duality for Constrained Deep Learning** is accepted to ECML 2020.
 
 ### Contact information
-cutran@syr.edu
+The best way to contact me is via email: cutran@syr.edu
 
 Center for Science and Technology 4-288, 111 College Pl, Syracuse, NY 13244
 
