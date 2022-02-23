@@ -17,7 +17,7 @@ I love to play soccer and badminton when I have free time.
 ## Short bio
 
 
-I went to Hanoi University of Science and Technology, Vietnam for my bachelor degree and Rutgers Univeristy, USA for my master. I spent two years working at Trusing Social a fintech comapnay based in Vietnam as a data scientist. 
+I went to Hanoi University of Science and Technology, Vietnam for my bachelor degree and Rutgers Univeristy, USA for my master. I spent two years working at Trusing Social a fintech comapany based in Vietnam as a data scientist. 
 
 
 ## News
@@ -26,8 +26,12 @@ I went to Hanoi University of Science and Technology, Vietnam for my bachelor de
 > We review the conditions under which privacy and fairness may have aligned or contrasting goals, analyze how and why DP may exacerbate unfairness in decision problems and learning tasks, and describe available mitigation measures for the fairness issues arising in DP systems.
 
 * [Sept, 2021]. Paper titled **Differentially Private Empirical Risk Minimization under the Fairness Lens** accepted to Neurips 2021. 
+* [May,2021]. Paper titled **Decision Making with Differential Privacy under a Fairness Lens** accepted to IJCAI 2021. 
 * [April, 2021]. I got internship offer from  Amazon. I will do applied scientist intern on causal inference at Bellevue, WA this summer! Congratulation to myself!
 * [Jan, 2021]. Our team won the third place in NIST Differential Privacy Temporal Map  Challenge. Congrats! Check out the media coverage [here](https://www.drivendata.co/blog/differential-privacy-winners-sprint1/) 
+* [Dec, 2020]. Paper titled ** Differentially Private and Fair Deep Learning: A Lagrangian Dual Approach** accepted to AAAI 2021.
+* [Nov, 2020]. Our paper titled "Privacy-preserving and accountable multi-agent learning" accepted to AAMAS 2021.
+* [June, 2020]. Our paper titled ** Lagrangian Duality for Constrained Deep Learning** accepted to ECML 2020.
 
 ### Contact information
 cutran@syr.edu
