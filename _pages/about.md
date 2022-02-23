@@ -25,6 +25,11 @@ I went to Hanoi University of Science and Technology, Vietnam for my bachelor de
 * [Feb, 2022]. New  survey paper on the intersection between fairness and  differential privacy submitted to IJCAI 2022. Check out the paper [here](https://arxiv.org/pdf/2202.08187.pdf) 
 > We review the conditions under which privacy and fairness may have aligned or contrasting goals, analyze how and why DP may exacerbate unfairness in decision problems and learning tasks, and describe available mitigation measures for the fairness issues arising in DP systems.
 
+
+* [Oct, 2021] A new preprint titled **A Fairness Analysis on Private Aggregation of Teacher Ensembles**. Check out the paper [here](https://arxiv.org/pdf/2109.08630.pdf)
+
+> We address what are the main causes of unfairness  issues in PATE framework and provide mitigation solutions for that issue.
+
 * [Sept, 2021]. Paper titled **Differentially Private Empirical Risk Minimization under the Fairness Lens**  is accepted to Neurips 2021. 
 * [May,2021]. Paper titled **Decision Making with Differential Privacy under a Fairness Lens** is  accepted to IJCAI 2021. 
 * [April, 2021]. I got internship offer from  Amazon. I will do applied scientist intern on causal inference at Bellevue, WA this summer! Congratulation to myself!
