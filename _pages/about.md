@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D student in Department of Electrical Engineering & Computer Science, Syracuse University. My research interests are federated learning, differential privacy and fairness in machine learning. I am very fortunate to have Prof. [Ferdinando Fioretto](https://www2.isye.gatech.edu/~fferdinando3/) as my research advisor. 
+I am a second year Ph.D student in Department of Electrical Engineering & Computer Science, Syracuse University. My research interests are federated learning, differential privacy and fairness for learning and decision problems. I am very fortunate to have Prof. [Ferdinando Fioretto](https://www2.isye.gatech.edu/~fferdinando3/) as my research advisor. 
 
 I love to play soccer and badminton when I have free time. 
 
