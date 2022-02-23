@@ -15,6 +15,16 @@ I am a second year Ph.D student in Department of Electrical Engineering & Comput
 
 I went to Hanoi University of Science and Technology, Vietnam for my bachelor degree and Rutgers Univeristy, USA for my master. I spent two years working at Trusing Social a fintech comapnay based in Vietnam as a data scientist. 
 
+
+## News
+
+* [Feb, 2022]. New  survey paper on the intersection between fairness and  differential privacy submitted to IJCAI 2022. Check out the paper [here](https://arxiv.org/pdf/2202.08187.pdf) 
+> We review the conditions under which privacy and fairness may have aligned or contrasting goals, analyze how and why DP may exacerbate unfairness in decision problems and learning tasks, and describe available mitigation measures for the fairness issues arising in DP systems.
+
+
+
+* [April, 2021]. I got internship offer from  Amazon. I will do applied scientist intern on causal inference at Bellevue, WA this summer! Congratulation to myself.
+
 ### Contact information
 cutran@syr.edu
 
