@@ -28,7 +28,7 @@ I went to Hanoi University of Science and Technology, Vietnam for my bachelor de
 
 * [Oct, 2021] A new preprint titled **A Fairness Analysis on Private Aggregation of Teacher Ensembles**. Check out the paper [here](https://arxiv.org/pdf/2109.08630.pdf)
 
-> We address what are the main causes of unfairness  issues in PATE framework and provide mitigation solutions for that issue.
+> We address the  unfairness  problems in PATE framework under data and model training angle.s An effective mitigation solutions  is proposed to improve fairness.
 
 * [Sept, 2021]. Paper titled **Differentially Private Empirical Risk Minimization under the Fairness Lens**  is accepted to Neurips 2021. 
 * [May,2021]. Paper titled **Decision Making with Differential Privacy under a Fairness Lens** is  accepted to IJCAI 2021. 
