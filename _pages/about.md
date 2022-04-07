@@ -21,7 +21,8 @@ I went to Hanoi University of Science and Technology, Vietnam for my bachelor de
 
 
 ## News
-
+* [April, 2022] Our paper on scalable private fair models submitted to ECML PKDD 2022
+* [Mar, 2022] I passed the Qualifying Exam 2. 
 * [Feb, 2022] New  survey paper on the intersection between fairness and  differential privacy submitted to IJCAI 2022. Check out the paper [here](https://arxiv.org/pdf/2202.08187.pdf) 
 > We review the conditions under which privacy and fairness may have aligned or contrasting goals, analyze how and why DP may exacerbate unfairness in decision problems and learning tasks, and describe available mitigation measures for the fairness issues arising in DP systems.
 
