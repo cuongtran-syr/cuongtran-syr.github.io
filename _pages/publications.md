@@ -11,7 +11,7 @@ author_profile: false
 fairness in decisions and learning tasks: A survey. Submitted to IJCAI Survey Track, 2022
 
 2. Cuong Tran, Ferdinando Fioretto, and Pascal Van Hentenryck. Sf-pate: Scalable, fair, and private
-aggregation of teacher ensembles. Submitted to IJCAI, 2022.
+aggregation of teacher ensembles. Submitted to ECML PKDD, 2022.
 
 3. Cuong Tran, My H. Dinh, Kyle Beiter, and Ferdinando Fioretto. A fairness analysis on private
 aggregation of teacher ensembles. Submitted to AAAI, 2022.
