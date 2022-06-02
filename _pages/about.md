@@ -21,6 +21,7 @@ I went to Hanoi University of Science and Technology, Vietnam for my bachelor de
 
 
 ## News
+* [May, 2022]  Check out our new paper "Pruning has a disparate impact on model accuracy" submitted to NeurIPS 2022. See [here](https://arxiv.org/abs/2205.13574)
 * [April, 2022]  
     *  Our paper on scalable private fair models submitted to ECML PKDD 2022
 
