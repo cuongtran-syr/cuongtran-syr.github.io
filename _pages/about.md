@@ -21,6 +21,9 @@ I went to Hanoi University of Science and Technology, Vietnam for my bachelor de
 
 
 ## News
+* [August, 2022] I will serve as Program Committee Member for AAAI 2023 and AAMAS 2023
+* [July, 2022] Congrats ! We won the The  2022 Caspar Bowden PET Award for Outstanding Research in Privacy. [Link](https://petsymposium.org/award/winners.php)  
+* [June, 2022] I will give a talk on "Differential privacy and fairness for learning and decision problems"  at MILA (Quebec Institute for Learning Algorithms) 
 * [May, 2022]  Check out our new paper "Pruning has a disparate impact on model accuracy" submitted to NeurIPS 2022. See [here](https://arxiv.org/abs/2205.13574)
 * [April, 2022]  
     *  Our paper on scalable private fair models submitted to ECML PKDD 2022
