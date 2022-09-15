@@ -21,11 +21,12 @@ I went to Hanoi University of Science and Technology, Vietnam for my bachelor de
 
 
 ## News
-* [August, 2022] I will serve as Program Committee Member for AAAI 2023 and AAMAS 2023
-* [July, 2022] Congrats ! We won the The  2022 Caspar Bowden PET Award for Outstanding Research in Privacy. [Link](https://petsymposium.org/award/winners.php)  
-* [June, 2022] I will give a talk on "Differential privacy and fairness for learning and decision problems"  at MILA (Quebec Institute for Learning Algorithms) 
+* [Sep, 2022] Our paper "Pruning has a disparate impact on model accuracy" was accepted to NeurIPS 2022. 
+* [Aug, 2022] I will serve as Program Committee Member for AAAI 2023 and AAMAS 2023
+* [Jul, 2022] Congrats ! We won the The  2022 Caspar Bowden PET Award for Outstanding Research in Privacy. [Link](https://petsymposium.org/award/winners.php)  
+* [Jun, 2022] I will give a talk on "Differential privacy and fairness for learning and decision problems"  at MILA (Quebec Institute for Learning Algorithms) 
 * [May, 2022]  Check out our new paper "Pruning has a disparate impact on model accuracy" submitted to NeurIPS 2022. See [here](https://arxiv.org/abs/2205.13574)
-* [April, 2022]  
+* [Apr, 2022]  
     *  Our paper on scalable private fair models submitted to ECML PKDD 2022
 
     * Our survey paper  "Differential Privacy and Fairness in Decisions and Learning Tasks: A Survey" was accepted to IJCAI 2022 Survey track. See you in Austria this summer.
@@ -39,11 +40,11 @@ I went to Hanoi University of Science and Technology, Vietnam for my bachelor de
 
 * [Sept, 2021] Paper titled **Differentially Private Empirical Risk Minimization under the Fairness Lens**  is accepted to Neurips 2021. 
 * [May,2021] Paper titled **Decision Making with Differential Privacy under a Fairness Lens** is  accepted to IJCAI 2021. 
-* [April, 2021] I got internship offer from  Amazon. I will do applied scientist intern on causal inference at Bellevue, WA this summer! Congratulation to myself!
+* [Apr, 2021] I got internship offer from  Amazon. I will do applied scientist intern on causal inference at Bellevue, WA this summer! Congratulation to myself!
 * [Jan, 2021] Our team won the third place in NIST Differential Privacy Temporal Map  Challenge. Congrats! Check out the media coverage [here](https://www.drivendata.co/blog/differential-privacy-winners-sprint1/) 
 * [Dec, 2020] Paper titled **Differentially Private and Fair Deep Learning: A Lagrangian Dual Approach** is accepted to AAAI 2021.
 * [Nov, 2020] Our paper titled **Privacy-preserving and accountable multi-agent learning** is accepted to AAMAS 2021.
-* [June, 2020] Our paper titled **Lagrangian Duality for Constrained Deep Learning** is accepted to ECML 2020.
+* [Jun, 2020] Our paper titled **Lagrangian Duality for Constrained Deep Learning** is accepted to ECML 2020.
 
 ### Contact information
 The best way to contact me is via email: cutran@syr.edu
