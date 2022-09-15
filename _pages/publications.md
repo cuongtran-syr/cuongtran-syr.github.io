@@ -6,7 +6,7 @@ author_profile: false
 ---
 (*) denotes equal contribution
 
-1. Cuong Tran, Ferdinando Fioretto, Jung-Eun Kim, Rakshit Naidu. Pruning has a disparate impact on model accuracy. Submitted to NeurIPS 2022.
+1. Cuong Tran, Ferdinando Fioretto, Jung-Eun Kim, Rakshit Naidu. Pruning has a disparate impact on model accuracy. In NeurIPS 2022.
 
 2. Ferdinando Fioretto, Cuong Tran <sup>*</sup>, Keyu Zhu, and Pascal Van Hentenryck. Differential privacy and
 fairness in decisions and learning tasks: A survey. In IJCAI Survey Track, 2022
