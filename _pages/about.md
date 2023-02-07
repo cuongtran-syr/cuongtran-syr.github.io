@@ -30,7 +30,6 @@ I went to Hanoi University of Science and Technology, Vietnam for my bachelor de
     *  Our paper on scalable private fair models submitted to ECML PKDD 2022
 
     * Our survey paper  "Differential Privacy and Fairness in Decisions and Learning Tasks: A Survey" was accepted to IJCAI 2022 Survey track. See you in Austria this summer.
-* [Mar, 2022] I passed the Qualifying Exam 2. 
 * [Feb, 2022] New  survey paper on the intersection between fairness and  differential privacy submitted to IJCAI 2022. Check out the paper [here](https://arxiv.org/pdf/2202.08187.pdf) 
 > We review the conditions under which privacy and fairness may have aligned or contrasting goals, analyze how and why DP may exacerbate unfairness in decision problems and learning tasks, and describe available mitigation measures for the fairness issues arising in DP systems.
 
@@ -40,7 +39,6 @@ I went to Hanoi University of Science and Technology, Vietnam for my bachelor de
 
 * [Sept, 2021] Paper titled **Differentially Private Empirical Risk Minimization under the Fairness Lens**  is accepted to Neurips 2021. 
 * [May,2021] Paper titled **Decision Making with Differential Privacy under a Fairness Lens** is  accepted to IJCAI 2021. 
-* [Apr, 2021] I got internship offer from  Amazon. I will do applied scientist intern on causal inference at Bellevue, WA this summer! Congratulation to myself!
 * [Jan, 2021] Our team won the third place in NIST Differential Privacy Temporal Map  Challenge. Congrats! Check out the media coverage [here](https://www.drivendata.co/blog/differential-privacy-winners-sprint1/) 
 * [Dec, 2020] Paper titled **Differentially Private and Fair Deep Learning: A Lagrangian Dual Approach** is accepted to AAAI 2021.
 * [Nov, 2020] Our paper titled **Privacy-preserving and accountable multi-agent learning** is accepted to AAMAS 2021.
