@@ -11,12 +11,10 @@ author_profile: false
 2. Ferdinando Fioretto, **Cuong Tran**  <sup>*</sup>, Keyu Zhu, and Pascal Van Hentenryck. Differential privacy and
 fairness in decisions and learning tasks: A survey. In IJCAI Survey Track, 2022
 
-3. **Cuong Tran**, Ferdinando Fioretto, and Pascal Van Hentenryck. Sf-pate: Scalable, fair, and private
-aggregation of teacher ensembles. Submitted to ECML PKDD, 2022.
+3. **Cuong Tran** and Ferdinando Fioretto. A Fairness Analysis on Private Aggregation of Teacher Ensembles. In IJCAI 2023.
 
-4. **Cuong Tran** and Ferdinando Fioretto. A Fairness Analysis on Private Aggregation of Teacher Ensembles. In IJCAI 2023.
-
-6. **Cuong Tran**, Keyu Zhu, Ferdinando Fioretto, Pascal Van Hentenryck. In IJCAI 2023.
+4. **Cuong Tran**, Keyu Zhu, Ferdinando Fioretto, Pascal Van Hentenryck. SF-PATE: Scalable, fair, and private
+aggregation of teacher ensembles. In IJCAI 2023.
 
 5. **Cuong Tran**, My H. Dinh, and Ferdinando Fioretto. Differentially private deep learning under the
 fairness lens. In Advances in Neural Information Processing Systems (NeurIPS), 2021.
