@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D student in Department of Electrical Engineering & Computer Science, Syracuse University. My research interests are federated learning, differential privacy and fairness for learning and decision problems. I am very fortunate to have Prof. [Ferdinando Fioretto](https://www2.isye.gatech.edu/~fferdinando3/) as my research advisor. 
+I am an incoming PostDoc at Department of  Computer Science, University of Virginia. My research interests are Responsible AI. 
 
 I love to play soccer and badminton when I have free time. 
 
@@ -21,6 +21,7 @@ I went to Hanoi University of Science and Technology, Vietnam for my bachelor de
 
 
 ## News
+* [Mar, 2023] Two papers accepted at IJCAI 2023. 
 * [Sep, 2022] Our paper "Pruning has a disparate impact on model accuracy" was accepted to NeurIPS 2022. 
 * [Aug, 2022] I will serve as Program Committee Member for AAAI 2023 and AAMAS 2023
 * [Jul, 2022] Congrats ! We won the The  2022 Caspar Bowden PET Award for Outstanding Research in Privacy. [Link](https://petsymposium.org/award/winners.php)  
