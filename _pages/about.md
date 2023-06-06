@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming PostDoc at Department of  Computer Science, University of Virginia. My research interests are Responsible AI. 
+I am an incoming PostDoc at Department of  Computer Science, University of Virginia. My research interests are Responsible AI. In particular, I have investigated the interplay between privacy and fairness in learning and decision making problems under different settings of privacy/fairness, learning(semi-supervised/supervised), local/distributed.
+
 
 I love to play soccer and badminton when I have free time. 
 
@@ -21,8 +22,9 @@ I went to Hanoi University of Science and Technology, Vietnam for my bachelor de
 
 
 ## News
+*[May, 2023] I will serve as  Program Committee Member for NeurIPS 2023.
 * [Mar, 2023] Two papers accepted at IJCAI 2023. 
-* [Sep, 2022] Our paper "Pruning has a disparate impact on model accuracy" was accepted to NeurIPS 2022. 
+* [Sep, 2022] Our paper "Pruning has a disparate impact on model accuracy" was accepted to NeurIPS 2022. It was nomiated for best paper award ~ 
 * [Aug, 2022] I will serve as Program Committee Member for AAAI 2023 and AAMAS 2023
 * [Jul, 2022] Congrats ! We won the The  2022 Caspar Bowden PET Award for Outstanding Research in Privacy. [Link](https://petsymposium.org/award/winners.php)  
 * [Jun, 2022] I will give a talk on "Differential privacy and fairness for learning and decision problems"  at MILA (Quebec Institute for Learning Algorithms) 
