@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming PostDoc at Department of  Computer Science, University of Virginia. My research interests are Responsible AI. In particular, I have investigated the interplay between privacy and fairness in learning and decision making problems under different settings of privacy/fairness, learning(semi-supervised/supervised), local/distributed.
+I am an incoming PostDoc at Department of  Computer Science, University of Virginia. My research interests is Responsible AI. In particular, I have investigated the interplay between privacy and fairness in learning and decision making problems under different settings of privacy/fairness, learning(semi-supervised/supervised), local/distributed.
 
 
 I love to play soccer and badminton when I have free time. 
@@ -18,7 +18,7 @@ I love to play soccer and badminton when I have free time.
 ## Short bio
 
 
-I went to Hanoi University of Science and Technology, Vietnam for my bachelor degree and Rutgers Univeristy, USA for my master. I spent two years working at Trusing Social a fintech comapany based in Vietnam as a data scientist. 
+I went to Hanoi University of Science and Technology, Vietnam for my bachelor degree and Rutgers Univeristy, USA for my master. I spent wonderful time working in industry at Trusting Social and Amazon Alexa.
 
 
 ## News
