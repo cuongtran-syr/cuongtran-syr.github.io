@@ -22,8 +22,8 @@ I went to Hanoi University of Science and Technology, Vietnam for my bachelor de
 
 
 ## News
-*[Sep, 2023] Our paper "Data minimization at inference time" was accepted to NeurIPS 2023.
-*[May, 2023] I will serve as  Program Committee Member for NeurIPS 2023.
+* [Sep, 2023] Our paper "Data minimization at inference time" was accepted to NeurIPS 2023.
+* [May, 2023] I will serve as  Program Committee Member for NeurIPS 2023.
 * [Mar, 2023] Two papers accepted at IJCAI 2023. 
 * [Sep, 2022] Our paper "Pruning has a disparate impact on model accuracy" was accepted to NeurIPS 2022. It was nomiated for best paper award ~ 
 * [Aug, 2022] I will serve as Program Committee Member for AAAI 2023 and AAMAS 2023
