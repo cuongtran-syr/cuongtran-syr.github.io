@@ -6,9 +6,9 @@ author_profile: false
 ---
 ## Selected publication
 (*) denotes equal contribution
-1. Sree Harsha Nelaturu, Nishaanth Kanna Ravichandran, Cuong Tran, Sara Hooker, and Ferdinando Fioretto. On The Fairness Impacts of Hardware Selection in Machine Learning. In ICML 2024.
+1. Sree Harsha Nelaturu, Nishaanth Kanna Ravichandran,**Cuong Tran**, Sara Hooker, and Ferdinando Fioretto. On The Fairness Impacts of Hardware Selection in Machine Learning. In ICML 2024.
 
-2. Cuong Tran, Keyu Zhu, Ferdinando Fioretto ,and Pascal Van Hentenryck. Fairness Increases Adversarial Vulnerability. In IJCAI 2024.
+2. **Cuong Tran**, Keyu Zhu, Ferdinando Fioretto ,and Pascal Van Hentenryck. Fairness Increases Adversarial Vulnerability. In IJCAI 2024.
    
 3. **Cuong Tran**, Ferdinando Fioretto. Data minimization at inference time. In NeurIPS 2023. 
 
