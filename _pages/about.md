@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an NLP scientist at Dyania Health, an AI Start up company based in Jersey city, NJ. My recent reasearch interests are scalable large language modelling. Previously I worked on Responsible AI topics.
+I am an NLP scientist at Dyania Health, an AI Start up company based in Jersey city, NJ. My recent reasearch interests are about reasoning of LLM and understanding how LLM aquire knowledge during fine-tuning.  In the past, I worked on Responsible AI (differential privacy and fairness) topics
 
 
 I love to play soccer and badminton when I have free time. 
-
 
 
 ## Short bio
@@ -22,6 +21,7 @@ I went to Hanoi University of Science and Technology, Vietnam for my bachelor de
 
 
 ## News
+* [Mar, 2025] Our paper ""Low-rank finetuning for LLMs is inherently unfair" got the best paper award at AAAI 2025-CoLoRA
 * [May, 2023] One paper accepted to ICML 2024 and one paper accepteed to IJCAI 2024.
 * [Sep, 2023] Our paper "Data minimization at inference time" was accepted to NeurIPS 2023.
 * [May, 2023] I will serve as  Program Committee Member for NeurIPS 2023.
