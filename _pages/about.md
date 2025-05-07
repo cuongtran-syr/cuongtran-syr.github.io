@@ -21,8 +21,8 @@ I went to Hanoi University of Science and Technology, Vietnam for my bachelor de
 
 
 ## News
-* [Mar, 2025] Our paper ""Low-rank finetuning for LLMs is inherently unfair" got the best paper award at AAAI 2025-CoLoRA
-* [May, 2023] One paper accepted to ICML 2024 and one paper accepteed to IJCAI 2024.
+* [Mar, 2025] Our paper "Low-rank finetuning for LLMs is inherently unfair" got the best paper award at AAAI 2025-CoLoRAI !
+* [May, 2023] One paper accepted to ICML 2024 and one paper accepted to IJCAI 2024.
 * [Sep, 2023] Our paper "Data minimization at inference time" was accepted to NeurIPS 2023.
 * [May, 2023] I will serve as  Program Committee Member for NeurIPS 2023.
 * [Mar, 2023] Two papers accepted at IJCAI 2023. 
