@@ -8,16 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am an NLP scientist at Dyania Health, an AI Start up company based in Jersey city, NJ. My recent reasearch interests are about reasoning of LLM and understanding how LLM aquire knowledge during fine-tuning.  In the past, I worked on Responsible AI (differential privacy and fairness) topics
+I am an NLP Scientist at Dyania Health, an AI startup based in Jersey City, NJ. My current research focuses on the reasoning capabilities of large language models (LLMs) and the mechanisms through which they acquire knowledge during fine-tuning. Previously, I worked on topics related to Responsible AI, including differential privacy and algorithmic fairness. I also participated in various data science competitions and have received monetary awards.
 
-
-I love to play soccer and badminton when I have free time. 
+Outside of work, I enjoy playing soccer and badminton in my free tim
 
 
 ## Short bio
 
 
-I went to Hanoi University of Science and Technology, Vietnam for my bachelor degree and Rutgers Univeristy, USA for my master. I spent wonderful time working in industry at Trusting Social and Amazon Alexa.
+I went to Hanoi University of Science and Technology, Vietnam for my bachelor degree and Rutgers Univeristy, USA for my master. I spent wonderful time working in industry at Trusting Social and Amazon Alexa. 
 
 
 ## News
